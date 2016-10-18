@@ -21,10 +21,10 @@ namespace OOPTutorial
         /// In this case it describes a boat
         /// </summary>
         /// <returns></returns>
-        string DescribeVehicle()
+        public string DescribeVehicle()
         {
 
-
+            return "Test";
 
         }
 
@@ -33,8 +33,10 @@ namespace OOPTutorial
         /// In this case it is a boat engine
         /// </summary>
         /// <returns></returns>
-        string DescribeEngine()
+       public  string DescribeEngine()
         {
+
+            return "test";
 
         }
 

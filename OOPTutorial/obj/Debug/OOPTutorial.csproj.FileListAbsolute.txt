@@ -13,6 +13,8 @@ C:\Users\nathan.egbert\Desktop\OOPTutorial\OOPTutorial\bin\Debug\OOPTutorial.pdb
 C:\Users\nathan.egbert\Desktop\OOPTutorial\OOPTutorial\obj\Debug\OOPTutorial.dll
 C:\Users\nathan.egbert\Desktop\OOPTutorial\OOPTutorial\obj\Debug\OOPTutorial.pdb
 C:\Users\nathan.egbert\Desktop\OOPTutorial\OOPTutorial\obj\Debug\OOPTutorial.csprojResolveAssemblyReference.cache
-C:\Users\nathan.egbert\Documents\GitHub\OOPTutorials\OOPTutorial\obj\Debug\OOPTutorial.csprojResolveAssemblyReference.cache
+C:\Users\nathan.egbert\Documents\GitHub\OOPTutorials\OOPTutorial\bin\Debug\OOPTutorial.dll
+C:\Users\nathan.egbert\Documents\GitHub\OOPTutorials\OOPTutorial\bin\Debug\OOPTutorial.pdb
 C:\Users\nathan.egbert\Documents\GitHub\OOPTutorials\OOPTutorial\obj\Debug\OOPTutorial.dll
 C:\Users\nathan.egbert\Documents\GitHub\OOPTutorials\OOPTutorial\obj\Debug\OOPTutorial.pdb
+C:\Users\nathan.egbert\Documents\GitHub\OOPTutorials\OOPTutorial\obj\Debug\OOPTutorial.csprojResolveAssemblyReference.cache

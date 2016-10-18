@@ -26,6 +26,17 @@ namespace OOPTutorial
 
         public string YearBuilt { get; set; }
 
+
+        string DescribeVehicle()
+        {
+            return "Test";
+        }
+
+        string DescribeEngine()
+        {
+            return "test";
+        }
+
     }
 
     public class Engine

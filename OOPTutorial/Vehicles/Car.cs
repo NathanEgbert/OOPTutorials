@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace OOPTutorial.Vehicles
 {
-    class Car
+    public class Car :Vehicle,IVehicle
     {
+      public string DescribeVehicle()
+        {
+            return "Test";
+        }
+
+      public string DescribeEngine()
+        {
+            return "test";
+        }
     }
 }
