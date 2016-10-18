@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace OOPTutorial.Vehicles
 {
-    class Truck
+    class Truck : IVehicle
     {
+
+
+        string DescribeVehicle()
+        {
+            return "Test";
+        }
+
+        string DescribeEngine()
+        {
+
+        }
+
     }
 }
