@@ -40,8 +40,16 @@ namespace OOPTutorial
         /// <returns></returns>
        public  string DescribeEngine()
         {
-
-            return "boat engine";
+            if (TwoStroke == true)
+            {
+                return "Two Stroke";
+            }
+            else if (FourStroke == true)
+            {
+                return "Four Stroke";
+            }
+            else
+                return "Unknown engine type"; 
 
         }
 
