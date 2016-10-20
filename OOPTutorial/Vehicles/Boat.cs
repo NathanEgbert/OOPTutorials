@@ -6,15 +6,20 @@ using System.Threading.Tasks;
 
 namespace OOPTutorial
 {
-    public class Boat : IVehicle
+    public class Boat : Vehicle,IVehicle
     {
-        public string Make { get; set; }
-
-        public BoatEngine Engine { get; set; }
+       
 
         public string BoatLength { get; set; }
 
-        public string Year { get; set; }
+        public int EngineSize { get; set; }
+
+        public bool TwoStroke { get; set; }
+
+        public bool FourStroke { get; set; }
+
+
+        
 
         /// <summary>
         /// Describes the Vehicle
@@ -24,7 +29,7 @@ namespace OOPTutorial
         public string DescribeVehicle()
         {
 
-            return "Test";
+            return "Boat";
 
         }
 
@@ -36,7 +41,7 @@ namespace OOPTutorial
        public  string DescribeEngine()
         {
 
-            return "test";
+            return "boat engine";
 
         }
 

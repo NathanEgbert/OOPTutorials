@@ -26,10 +26,7 @@ namespace OOPTests
             Assert.AreEqual("64gb", cellPhone.storage);
 
 
-            //testing the this.type
-            string oldCellPhoneType = "Android";
-            string cellPhoneType = cellPhone.GetPhoneType(oldCellPhoneType);
-            Assert.AreEqual("Iphone", cellPhoneType);
+            
 
 
 

@@ -9,15 +9,17 @@ namespace OOPTutorial.Vehicles
   public  class Truck : Vehicle,IVehicle
     {
 
+      public string BedLength { get; set; }
 
-      public   string DescribeVehicle()
+
+      public string DescribeVehicle()
         {
-            return "Test";
+            return "truck";
         }
 
        public  string DescribeEngine()
         {
-            return "test";
+            return Engine.Horsepower.ToString();
         }
 
     }

@@ -41,7 +41,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Cellphone\CellPhoneCarrier.cs" />
     <Compile Include="Cellphone\IPhone.cs" />
     <Compile Include="Vehicles\Boat.cs" />
     <Compile Include="Cellphone\CellPhone.cs" />

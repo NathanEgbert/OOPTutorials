@@ -17,16 +17,7 @@ namespace OOPTutorial
         public string storage { get; set; }
 
         public string carrier { get; set; }
-
-
-
-         public string GetPhoneType(string newPhoneType)
-         {
-             newPhoneType = this.type;
-             return newPhoneType;
-         }
-
-        
+    
         
     }
 }
