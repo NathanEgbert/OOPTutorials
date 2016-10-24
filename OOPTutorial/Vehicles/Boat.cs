@@ -6,20 +6,16 @@ using System.Threading.Tasks;
 
 namespace OOPTutorial
 {
-    public class Boat : Vehicle,IVehicle
+    public class Boat : Vehicle, IVehicle
     {
-       
+
 
         public string BoatLength { get; set; }
 
-        public int EngineSize { get; set; }
+        public bool CenterConsole { get; set; }
 
-        public bool TwoStroke { get; set; }
-
-        public bool FourStroke { get; set; }
-
-
-        
+        public BoatEngine BEngine { get; set; }
+ 
 
         /// <summary>
         /// Describes the Vehicle
@@ -40,11 +36,11 @@ namespace OOPTutorial
         /// <returns></returns>
        public  string DescribeEngine()
         {
-            if (TwoStroke == true)
+            if (BEngine.TwoStroke == true)
             {
                 return "Two Stroke";
             }
-            else if (FourStroke == true)
+            else if (BEngine.FourStroke == true)
             {
                 return "Four Stroke";
             }

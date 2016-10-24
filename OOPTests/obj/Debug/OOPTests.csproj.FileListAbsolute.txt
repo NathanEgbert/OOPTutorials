@@ -27,3 +27,10 @@ C:\Users\nathan.egbert\Documents\GitHub\OOPTutorials\OOPTests\bin\Debug\OOPTutor
 C:\Users\nathan.egbert\Documents\GitHub\OOPTutorials\OOPTests\bin\Debug\OOPTutorial.pdb
 C:\Users\nathan.egbert\Documents\GitHub\OOPTutorials\OOPTests\obj\Debug\OOPTests.dll
 C:\Users\nathan.egbert\Documents\GitHub\OOPTutorials\OOPTests\obj\Debug\OOPTests.pdb
+C:\Users\Nate\Source\Repos\OOPTutorials\OOPTests\obj\Debug\OOPTests.csprojResolveAssemblyReference.cache
+C:\Users\Nate\Source\Repos\OOPTutorials\OOPTests\obj\Debug\OOPTests.dll
+C:\Users\Nate\Source\Repos\OOPTutorials\OOPTests\obj\Debug\OOPTests.pdb
+C:\Users\Nate\Source\Repos\OOPTutorials\OOPTests\bin\Debug\OOPTests.dll
+C:\Users\Nate\Source\Repos\OOPTutorials\OOPTests\bin\Debug\OOPTests.pdb
+C:\Users\Nate\Source\Repos\OOPTutorials\OOPTests\bin\Debug\OOPTutorial.dll
+C:\Users\Nate\Source\Repos\OOPTutorials\OOPTests\bin\Debug\OOPTutorial.pdb
